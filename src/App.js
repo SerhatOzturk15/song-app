@@ -510,7 +510,7 @@ Hey hey`),
 
   //const songs = songs;
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Routes>
         <Route path="/">
           <Route index element={<List songs={songs} />} />
