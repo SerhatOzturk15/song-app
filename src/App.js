@@ -791,6 +791,38 @@ Must come down`),
       "singer": "Fleetwood Mac",
       "notes": 5
     },
+    {
+      "name": "Helpleess",
+      "lyrics": JSON.stringify(`
+There is a town in north Ontario
+With dream comfort memory to spare
+In my mind, I still need a place to go
+All my changes were there
+Blue, blue windows behind the stars
+Yellow moon on the rise
+Big birds flying across the sky
+Throwing shadows on our eyes
+Leave us
+Helpless, helpless, helpless
+Baby can you hear me now? (Helpless, helpless, helpless)
+The chains are locked and tied across the door
+Baby, sing with me somehow (helpless, helpless, helpless)
+Blue, blue windows behind the stars
+Yellow moon on the rise
+Big birds flying across the sky
+Throwing shadows on our eyes
+Leave us
+Helpless, helpless, helpless
+Helpless, helpless, helpless
+Helpless, helpless, helpless
+Helpless, helpless, helpless
+Helpless, helpless, helpless
+(Helpless, helpless, helpless)`),
+      "source": "DWZ5_uKL428",
+      "singer": "Neil Young",
+      "notes": 5
+    },
+
 
   ]
 

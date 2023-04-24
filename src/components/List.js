@@ -1,51 +1,27 @@
 import React, { useEffect, useState } from 'react';
-import { DataGrid } from '@mui/x-data-grid';
 //import songs from '../../src/songs.json'
-import Button from '@mui/material/Button';
 import { Link } from "react-router-dom";
 import { useNavigate } from "react-router-dom";
+import './../index.css'
 
 
 export const List = ({ songs }) => {
   let navigate = useNavigate();
 
-  const [status, setStatus] = useState();
-
-  const outerShit = {
-    backgroundColor: "DodgerBlue",
-    fontFamily: "Arial",
-  };
-
-  const colStyle = {
-    backgroundColor: "DodgerBlue",
-    fontFamily: "Arial"
-  };
-
-  const gridStyle = {
-    display: 'grid',
-    paddingLeft: '100px',
-    rowGap: '1rem',
-    gridTemplateColumns: '1fr 1fr 1fr 1fr',
-    gridTemplateRows: '1fr 1fr'
-  };
-
   const handleClick = (name) => {
     navigate(`/song/${name}`);
   }
 
-  return <div style = {outerShit}>
-    <div style={gridStyle}>
-        <div style={colStyle}>Song</div>
-        <div style={colStyle}>Artist</div>
-    </div>
+  return <div className='outer'>
+     <div className='title'>
+        <div>Song</div>
+        <div>Artist</div>
+    </div> 
     {songs.map(x => {
-      return <div style={gridStyle} onClick={() => handleClick(x.name)}>
-        <div style={colStyle}>{x.name}</div>
-        <div style={colStyle}>{x.singer}</div>
+      return <div onClick={() => handleClick(x.name)}>
+        <div>{x.name}</div>
+        <div>{x.singer}</div>
       </div>
     })}
   </div>
 }
-
-/*
-*/
