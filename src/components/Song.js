@@ -17,12 +17,8 @@ export const Song = ({songs}) => {
         backgroundColor: "DodgerBlue",
         padding: "10px",
         fontFamily: "Arial",
-        justifyContent: 'space-between',
-        spaceBetween: '2rem',
-        gap: `20px`,
         whiteSpace: "break-spaces",
-        paddingLeft: '20%',
-        paddingRight: '20%'
+        paddingLeft: '3rem',
       };
 
     return <div style = {container}>

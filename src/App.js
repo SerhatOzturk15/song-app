@@ -46,7 +46,7 @@ function App() {
         Dead or alive
         Dead or alive`),
       "source": "SRvCvsRp5ho",
-      "official_video": "youtube link",
+      "singer": "Jon Bovi",
       "tabs": "tab link"
     },
     {
@@ -91,7 +91,7 @@ We get to carry each other, carry each other
 One
 One`),
       "source": "ftjEcrrf7r0",
-      "official_video": 4,
+      "singer": "u2",
       "notes": 5
     },
     {
@@ -135,7 +135,7 @@ Do you remember when we used to sing?
 Sha-la-la, la-la, la-la, la-la, la-la tee-da
 Sha-la-la, la-la, la-la, la-la, la-la tee-da`),
       "source": "kqXSBe-qMGo",
-      "official_video": 4,
+      "singer": "Van Morrison",
       "notes": 5
     },
     {
@@ -169,7 +169,7 @@ Sha-la-la, la-la, la-la, la-la, la-la tee-da`),
       No I don't have a gun
       No I don't have a gun`),
       "source": "z9LiPuVRyU8",
-      "official_video": 4,
+      "singer": "Nirvana",
       "notes": 5
     },
     {
@@ -200,7 +200,7 @@ Sha-la-la, la-la, la-la, la-la, la-la tee-da`),
       Wish you were here
       `),
       "source": "GrvBYMTscmE",
-      "official_video": 4,
+      "singer": "Pink Floyd",
       "notes": 5
     },
     {
@@ -256,7 +256,7 @@ Sha-la-la, la-la, la-la, la-la, la-la tee-da`),
       Though the truth may vary
       This ship will carry our bodies safe to shore`),
       "source": "ghb6eDopW8I",
-      "official_video": 4,
+      "singer": "Of Monsters and Men",
       "notes": 5
     },
     {
@@ -295,7 +295,7 @@ Sha-la-la, la-la, la-la, la-la, la-la tee-da`),
       You all I want is
       You`),
       "source": "un-rfEyPBO4",
-      "official_video": 4,
+      "singer": "U2",
       "notes": 5
     },
     {
@@ -353,8 +353,8 @@ Save tonight
 And fight the break of dawn
 Come tomorrow
 Tomorrow I'll be gone`),
-      "source": "un-rfEyPBO4",
-      "official_video": 4,
+      "source": "Nntd2fgMUYw",
+      "singer": "Eagle Eye Cherry",
       "notes": 5
     },
     {
@@ -394,8 +394,8 @@ Tomorrow I'll be gone`),
       Desire
       Desire
       Desire, hey`),
-      "source": "un-rfEyPBO4",
-      "official_video": 4,
+      "source": "z8rQ575DWD8",
+      "singer": "U2",
       "notes": 5
     },
     {
@@ -433,8 +433,8 @@ Tomorrow I'll be gone`),
       For a heart of gold
       I've been a miner
       For a heart of gold`),
-      "source": "un-rfEyPBO4",
-      "official_video": 4,
+      "source": "c7eB7Wns1-M",
+      "singer": "Neil Young",
       "notes": 5
     },
     {
@@ -478,7 +478,7 @@ Promise you, have been true
 Let me take a ride, cut yourself
 Want some help, please myself`),
       "source": "3H0NHHKBemg",
-      "official_video": 4,
+      "singer": "Nirvana",
       "notes": 5
     },
     {
@@ -502,10 +502,296 @@ Memleket sevdasından
 Hey canım hey
 Hey hey`),
       "source": "CGVpTp3cOpw",
-      "official_video": 4,
+      "singer": "Cem Karaca",
       "notes": 5
     },
-    
+    {
+      "name": "Linger",
+      "lyrics": JSON.stringify(`
+      If you, if you could return
+      Don't let it burn
+      Don't let it fade
+      I'm sure I'm not being rude
+      But it's just your attitude
+      It's tearing me apart
+      It's ruining every day
+      I swore, I swore I would be true
+      And honey so did you
+      So why were you holding her hand?
+      Is that the way we stand?
+      Were you lying all the time?
+      Was it just a game to you?
+      But I'm in so deep
+      You know I'm such a fool for you
+      You got me wrapped around your finger
+      Do you have to let it linger?
+      Do you have to, do you have to, do you have to let it linger?
+      Oh, I thought the world of you
+      I thought nothing could go wrong
+      But I was wrong, I was wrong
+      If you, if you could get by
+      Trying not to lie
+      Things wouldn't be so confused
+      And I wouldn't feel so used
+      But you always really knew
+      I just want to be with you
+      And I'm in so deep
+      You know I'm such a fool for you
+      You got me wrapped around your finger
+      Do you have to let it linger?
+      Do you have to, do you have to, do you have to let it linger?
+      And I'm in so deep
+      You know I'm such a fool for you
+      You got me wrapped around your finger
+      Do you have to let it linger?
+      Do you have to, do you have to, do you have to let it linger?
+      You know I'm such a fool for you
+      You got me wrapped around your finger
+      Do you have to let it linger?
+      Do you have to, do you have to, do you have to let it linger?`),
+      "source": "Bnns_aSHXzQ",
+      "singer": "Cranberries",
+      "notes": 5
+    },
+    {
+      "name": "Mad world",
+      "lyrics": JSON.stringify(`
+      All around me are familiar faces
+      Worn out places, worn out faces
+      Bright and early for the daily races
+      Going nowhere, going nowhere
+      Their tears are filling up their glasses
+      No expression, no expression
+      Hide my head, I wanna drown my sorrow
+      No tomorrow, no tomorrow
+      And I find it kind of funny
+      I find it kind of sad
+      The dreams in which I'm dying
+      Are the best I've ever had
+      I find it hard to tell you
+      I find it hard to take
+      When people run in circles, it's a very, very
+      Mad world, mad world
+      Children waiting for the day they feel good
+      Happy birthday, happy birthday
+      And I feel the way that every child should
+      Sit and listen, sit and listen
+      Went to school and I was very nervous
+      No one knew me, no one knew me
+      "Hello, teacher! Tell me, what's my lesson?"
+      Look right through me, look right through me
+      And I find it kind of funny
+      I find it kind of sad
+      The dreams in which I'm dying
+      Are the best I've ever had
+      I find it hard to tell you
+      I find it hard to take
+      When people run in circles, it's a very, very
+      Mad world, mad world
+      Enlarging your world
+      Mad world`),
+      "source": "4N3N1MlvVc4",
+      "singer": "Gary Jules",
+      "notes": 5
+    },
+    {
+      "name": "Don't You (Forget About Me)",
+      "lyrics": JSON.stringify(`
+      Hey, hey, hey, hey
+      Ooh, woah
+      Won't you come see about me?
+      I'll be alone, dancing, you know it, baby
+      Tell me your troubles and doubts
+      Giving everything inside and out and
+      Love's strange, so real in the dark
+      Think of the tender things that we were working on
+      Slow change may pull us apart
+      When the light gets into your heart, baby
+      Don't you, forget about me
+      Don't, don't, don't, don't
+      Don't you, forget about me
+      Will you stand above me?
+      Look my way, never love me
+      Rain keeps falling, rain keeps falling
+      Down, down, down
+      Will you recognize me?
+      Call my name or walk on by
+      Rain keeps falling, rain keeps falling
+      Down, down, down, down
+      Hey, hey, hey, hey
+      Ooh, woah
+      Don't you try and pretend
+      It's my feeling we'll win in the end
+      I won't harm you or touch your defenses
+      Vanity and security, ah
+      Don't you forget about me
+      I'll be alone, dancing, you know it, baby
+      Going to take you apart
+      I'll put us back together at heart, baby
+      Don't you, forget about me
+      Don't, don't, don't, don't
+      Don't you, forget about me
+      As you walk on by
+      Will you call my name?
+      As you walk on by
+      Will you call my name?
+      When you walk away
+      Or will you walk away?
+      Will you walk on by?
+      Come on, call my name
+      Will you call my name?
+      I say
+      La, la-la-la-la, la-la-la-la
+      La-la-la-la-la-la-la-la-la-la
+      La-la-la-la, la-la-la-la
+      La-la-la-la-la-la-la-la-la-la
+      La-la-la-la, la-la-la-la
+      La-la-la-la-la-la-la-la-la-la
+      When you walk on by
+      And you call my name
+      When you walk on by`),
+      "source": "CdqoNKCCt7A",
+      "singer": "Simple Minds",
+      "notes": 5
+    },
+    {
+      "name": "Patience",
+      "lyrics": JSON.stringify(`
+      One, two, one, two, three, four
+      Shed a tear 'cause I'm missin' you
+      I'm still alright to smile
+      Girl, I think about you every day now
+      Was a time when I wasn't sure
+      But you set my mind at ease
+      There is no doubt you're in my heart now
+      Said "woman take it slow, and it'll work itself out fine"
+      All we need is just a little patience
+      Said "sugar make it slow and we'll come together fine"
+      All we need is just a little patience (Patience)
+      Mm, yeah
+      I sit here on the stairs
+      'Cause I'd rather be alone
+      If I can't have you right now, I'll wait dear
+      Sometimes I get so tense but I can't speed up the time
+      But you know love there's one more thing to consider
+      Said "woman take it slow and things will be just fine"
+      You and I'll just use a little patience
+      Said "sugar take the time 'cause the lights are shining bright"
+      You and I've got what it takes to make it
+      We won't fake it, I'll never break it
+      'Cause I can't take it
+      Little patience, mm yeah, mm yeah
+      Need a little patience, yeah
+      Just a little patience, yeah
+      Some more patience, yeah (I've been walking the streets at night)
+      Just trying to get it right (A little patience, yeah)
+      It's hard to see with so many around
+      You know I don't like being stuck in the crowd (Could use some patience, yeah)
+      And the streets don't change but maybe the names
+      I ain't got time for the game 'cause I need you (Gotta have more patience, yeah)
+      Yeah, yeah, yeah but I need you (All need more patience)
+      Oh, I need you (All need some patience)
+      Oh, I need you (Just a little patience)
+      Ooh this time (Is all you need)`),
+      "source": "ErvgV4P6Fzc",
+      "singer": "Guns N' Roses",
+      "notes": 5
+    },
+    {
+      "name": "Learning to fly",
+      "lyrics": JSON.stringify(`
+Well, I started out
+Down a dirty road
+Started out all alone
+And the sun went down
+As I crossed the hill
+And the town lit up
+The world got still
+I'm learning to fly
+But I ain't got wings
+Coming down
+Is the hardest thing
+Well the good ol' days
+May not return
+And the rocks might melt
+And the sea may burn
+I'm learning to fly
+(I'm learning to fly)
+But I ain't got wings
+(I'm learning to fly)
+And coming down
+(I'm learning to fly)
+Is the hardest thing
+(I'm learning to fly)
+Now some say life
+Will beat you down
+Yeah, break your heart
+Steal your crown
+So I started out
+For God knows where
+I guess I'll know
+When I get there
+I'm learning to fly
+Around the clouds
+But what goes up
+Must come down
+I'm learning to fly
+(I'm learning to fly)
+But I ain't got wings
+Coming down
+Is the hardest thing
+I'm learning to fly
+(I'm learning to fly)
+Around the clouds
+But what goes up
+(I'm learning to fly)
+Must come down`),
+      "source": "s5BJXwNeKsQ",
+      "singer": "Tom Petty",
+      "notes": 5
+    },
+    {
+      "name": "Dreams",
+      "lyrics": JSON.stringify(`
+      Now here you go again, you say you want your freedom
+      Well, who am I to keep you down?
+      It's only right that you should play the way you feel it
+      But listen carefully to the sound of your loneliness
+      Like a heartbeat, drives you mad
+      In the stillness of remembering what you had
+      And what you lost
+      And what you had
+      And what you lost
+      Oh, thunder only happens when it's raining
+      Players only love you when they're playing
+      Say, women, they will come and they will go
+      When the rain washes you clean, you'll know
+      You'll know
+      Now here I go again, I see the crystal vision
+      I keep my visions to myself
+      But it's only me who wants to wrap around your dreams, and
+      Have you any dreams you'd like to sell, dreams of loneliness?
+      Like a heartbeat, drives you mad
+      In the stillness of remembering what you had
+      And what you lost
+      And what you had
+      Ooh, what you lost
+      Thunder only happens when it's raining
+      Players only love you when they're playing
+      Women, they will come and they will go
+      When the rain washes you clean, you'll know
+      Oh, thunder only happens when it's raining
+      Players only love you when they're playing
+      Say, women, they will come and they will go
+      When the rain washes you clean, you'll know
+      You'll know
+      You will know
+      Oh-oh-oh, you'll know`),
+      "source": "5oWyMakvQew",
+      "singer": "Fleetwood Mac",
+      "notes": 5
+    },
+
   ]
 
   //const songs = songs;

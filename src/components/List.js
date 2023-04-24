@@ -34,12 +34,14 @@ export const List = ({ songs }) => {
   }
 
   return <div style = {outerShit}>
+    <div style={gridStyle}>
+        <div style={colStyle}>Song</div>
+        <div style={colStyle}>Artist</div>
+    </div>
     {songs.map(x => {
       return <div style={gridStyle} onClick={() => handleClick(x.name)}>
         <div style={colStyle}>{x.name}</div>
-        <div style={colStyle}>{x.source}</div>
-        <div style={colStyle}>{x.official_video}</div>
-        <div style={colStyle}>{x.tabs}</div>
+        <div style={colStyle}>{x.singer}</div>
       </div>
     })}
   </div>
