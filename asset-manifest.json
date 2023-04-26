@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/song-app/static/css/main.8882df43.css",
+    "main.css": "/song-app/static/css/main.ac0fe922.css",
     "main.js": "/song-app/static/js/main.c9e05ec8.js",
     "static/js/787.7b014739.chunk.js": "/song-app/static/js/787.7b014739.chunk.js",
     "index.html": "/song-app/index.html",
-    "main.8882df43.css.map": "/song-app/static/css/main.8882df43.css.map",
+    "main.ac0fe922.css.map": "/song-app/static/css/main.ac0fe922.css.map",
     "main.c9e05ec8.js.map": "/song-app/static/js/main.c9e05ec8.js.map",
     "787.7b014739.chunk.js.map": "/song-app/static/js/787.7b014739.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8882df43.css",
+    "static/css/main.ac0fe922.css",
     "static/js/main.c9e05ec8.js"
   ]
 }
