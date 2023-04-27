@@ -37,6 +37,11 @@ code {
   border-radius: unset !important;
 }
 
+.iframe {
+  width: 600px;
+  height: 400px;
+}
+
 .title:hover {
   background: skyblue !important;
 }
@@ -49,10 +54,21 @@ code {
 .container {
   display: flex;
   flex-direction: row;
-  white-space: break-spaces;
+  white-space: pre;
   background: rgb(36, 136, 138);
 }
 
 .container > div {
   margin: 1rem;
+}
+
+@media only screen and (max-width: 700px) {
+  .container {
+    flex-direction: column;
+  }
+
+  .iframe {
+    width: 100%;
+    height: 250px;
+  }
 }

@@ -8,8 +8,8 @@ import './../index.css'
 export const List = ({ songs }) => {
   let navigate = useNavigate();
 
-  const handleClick = (name) => {
-    navigate(`/song/${name}`);
+  const handleClick = (index) => {
+    navigate(`/song/${index}`);
   }
 
   return <div className='outer'>
@@ -17,8 +17,8 @@ export const List = ({ songs }) => {
         <div>Song</div>
         <div>Artist</div>
     </div> 
-    {songs.map(x => {
-      return <div onClick={() => handleClick(x.name)}>
+    {songs.map((x, i) => {
+      return <div onClick={() => handleClick(i)}>
         <div>{x.name}</div>
         <div>{x.singer}</div>
       </div>

@@ -7,11 +7,12 @@ export const Song = ({songs}) => {
 
     const id = params.id;
 
-    const song = songs.find(x => x.name == id);
+    const song = songs[id];
 
     return <div className='container'>
         <YoutubeEmbed embedId = {song.source}/>
-        <div>{JSON.parse(song.lyrics)}</div>
+        <div>{song.lyrics}</div>
+        <div>{song.chords}</div>
     </div>
 }
 
